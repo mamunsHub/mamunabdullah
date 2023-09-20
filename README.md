@@ -3,13 +3,22 @@
 </h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Automation, Manual and API Testing**
 
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing**
 
 - 📫 How to reach me **mamunabdullah.cse007@gmail.com**
 
-- 📫 Checkout my blog @ **https://mamunabdullah.hashnode.dev/**
+- ⚡ Fun fact **The entire source code for the Apollo 11 mission that landed the first humans on the Moon in 1969 was just 145,000 lines, which is less than a modern smartphone app!**
+
+- 🤝 Quality Assurance: Where bugs meet their match.
+
+- 📫 Check out my blog @ **https://mamunabdullah.hashnode.dev/**
+
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunsHub&label=Profile%20views&color=0e75b6&style=flat" alt="mamunsHub" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
