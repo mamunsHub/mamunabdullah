@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **mamunabdullah.cse007@gmail.com**
 
-- ⚡ Fun fact **The entire source code for the Apollo 11 mission that landed the first humans on the Moon in 1969 was just 145,000 lines, which is less than a modern smartphone app!**
+- ⚡ Fun fact **Fun Fact: The first computer bug was a real insect – a moth found inside a computer relay in 1947!**
 
-- 🤝 Quality Assurance: Where bugs meet their match.
+- 🤝 **Quality Assurance: Where bugs meet their match.**
 
 - 📫 Check out my blog @ **https://mamunabdullah.hashnode.dev/**
 
