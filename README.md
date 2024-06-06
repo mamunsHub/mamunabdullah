@@ -27,7 +27,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Hi There, I am a passionate Software QA Engineer, leveraging my 4 years of industry experience and diverse skill set
+Hi There, I am a passionate Software QA Engineer, leveraging my 5 years of industry experience and diverse skill set
 gained from working with multiple tech companies. Committed to delivering high-quality software products by
 utilizing my expertise in test process management, database testing, and application testing. Looking to contribute
 to a dynamic team where I can further enhance my skills and make a meaningful impact on product quality and
